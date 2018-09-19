@@ -1,0 +1,8 @@
+export const AUTH_CONFIG = {
+  domain: '{DOMAIN}',
+  clientID: '{CLIENT_ID}',
+  callbackUrl: 'http://localhost:6597/callback',
+  apiUrl: '{API_IDENTIFIER}',
+  responseType: 'token id_token',
+  scope: 'openid profile'
+}

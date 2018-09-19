@@ -1,0 +1,12 @@
+@media print {
+    * {
+        box-shadow: none !important;
+    }
+    .toolbar,
+    footer,
+    .print-network-map aside ~ main,
+    .navigation-drawer
+    {
+        display: none !important;
+    }
+}

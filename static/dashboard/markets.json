@@ -1,0 +1,38 @@
+{ "markets": [{
+  "name": "Italy",
+  "numberOfProducts": 10,
+  "numberOfDomains": 762,
+  "medianProductTrustFlow": 16,
+  "medianDomainTrustFlow": 11
+}, {
+  "name": "Germany",
+  "numberOfProducts": 6,
+  "numberOfDomains": 662,
+  "medianProductTrustFlow": 26,
+  "medianDomainTrustFlow": 17
+}, {
+  "name": "United Kingdom",
+  "numberOfProducts": 7,
+  "numberOfDomains": 502,
+  "medianProductTrustFlow": 25,
+  "medianDomainTrustFlow": 12
+}, {
+  "name": "Sweden",
+  "numberOfProducts": 10,
+  "numberOfDomains": 862,
+  "medianProductTrustFlow": 20,
+  "medianDomainTrustFlow": 12
+}, {
+  "name": "Finland",
+  "numberOfProducts": 11,
+  "numberOfDomains": 532,
+  "medianProductTrustFlow": 18,
+  "medianDomainTrustFlow": 10
+}, {
+  "name": "Austria",
+  "numberOfProducts": 8,
+  "numberOfDomains": 262,
+  "medianProductTrustFlow": 22,
+  "medianDomainTrustFlow": 14
+}]
+}

@@ -1,0 +1,49 @@
+.application .toolbar.catena,
+.application .footer.catena
+{
+  background: linear-gradient(to right, #f03e6a, #f53942);
+}
+
+.catena.btn--raised.btn:not(.btn--disabled)
+{
+  background: #383b40;
+}
+
+.dashboard .material-icons.icon,
+.navigation-drawer .list.catena .list__tile.list__tile--link .material-icons.icon
+{
+  color: #383b40;
+}
+
+.catena.btn--raised.btn:not(.btn--disabled) .btn__content span
+{
+  color: #e6ebed;
+}
+
+.catena.btn--raised.btn:not(.btn--disabled):hover .btn__content span,
+.catena.btn--raised.btn:not(.btn--disabled):hover .btn__content .material-icons.icon
+{
+  color: #fbc222 !important;
+}
+
+.navigation-drawer .list.catena .router-link-exact-active.list__tile--active.list__tile.list__tile--link .material-icons.icon
+{
+  color: #f03e6a;
+}
+
+.datatable.table tbody a
+{
+  text-decoration: none;
+}
+
+main .toolbar__content
+{
+  background: #e6ebed;
+}
+
+.elevation-12
+{
+  box-shadow: 0 7px 8px -4px rgba(0, 0, 0, .2),
+    0 12px 17px 2px rgba(0, 0, 0, .14),
+    0 5px 22px 4px rgba(0, 0, 0, .12)!important;
+}

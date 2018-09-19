@@ -1,0 +1,41 @@
+{
+  "portfolios": [{
+      "text": "Ask",
+      "value": "sk"
+    }, {
+      "text": "BayBets",
+      "value": "baybets"
+    }, {
+      "text": "Tower",
+      "value": "tower"
+    }, {
+      "text": "New Casinos",
+      "value": "new-casinos"
+    }],
+  "statuses": [{
+    "text": "Live",
+    "value": "live"
+  }, {
+    "text": "Online",
+    "value": "online"
+  }, {
+    "text": "Offline",
+    "value": "offline"
+  }, {
+    "text": "Expired",
+    "value": "expired"
+  }],
+  "types": [{
+    "text": "Type 1",
+    "value": "Type 1"
+  }, {
+    "text": "Type 2",
+    "value": "type 2"
+  }, {
+    "text": "Type 3",
+    "value": "type 3"
+  }, {
+    "text": "Type 4",
+    "value": "type 4"
+  }]
+}

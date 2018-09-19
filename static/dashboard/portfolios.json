@@ -1,0 +1,33 @@
+{
+  "portfolios": [{
+      "name": "TowerRRRR",
+      "numberOfProducts": 5,
+      "numberOfMarkets": 2,
+      "numberOfDomains": 633
+    }, {
+      "name": "LJFK",
+      "numberOfProducts": 2,
+      "numberOfMarkets": 1,
+      "numberOfDomains": 123
+    }, {
+      "name": "Vertical Reality",
+      "numberOfProducts": 3,
+      "numberOfMarkets": 3,
+      "numberOfDomains": 162
+    }, {
+      "name": "Pyramid",
+      "numberOfProducts": 2,
+      "numberOfMarkets": 1,
+      "numberOfDomains": 65
+    }, {
+      "name": "ProductZombies",
+      "numberOfProducts": 12,
+      "numberOfMarkets": 7,
+      "numberOfDomains": 666
+    }, {
+      "name": "Horizon",
+      "numberOfProducts": 4,
+      "numberOfMarkets": 2,
+      "numberOfDomains": 55
+    }]
+  }
